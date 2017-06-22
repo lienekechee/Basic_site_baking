@@ -1,0 +1,50 @@
+body {
+	/**/
+	background-image: url("https://cdn.shopify.com/s/files/1/0213/4056/products/Tavella_Verde_large.jpg?v=1443926423");
+	background-size: 50%;
+	text-align: center;
+
+	
+}
+
+.nav li{
+	display: inline;
+	margin-left:5%;
+	margin-right: 5%;
+	font-family: 'Coda', cursive;
+/*	color: #FFE375;*/
+	color: #FAC3D4;
+	font-size: 30px;
+	text-shadow: 1px 1px #F588A9;
+	
+}
+
+h1{
+	font-family: 'Bangers', cursive;
+	font-size: 120px;
+	color: #F25C89;
+	text-shadow: 2px 2px #84334B;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	letter-spacing: 11px;
+}
+
+h2,h3 {
+	font-family: 'Coda', cursive;
+	font-size: 30px;
+	color: #FAC3D4;
+	text-shadow: 1px 1px #F588A9;
+}
+img {
+	border: 5px solid;
+	border-radius: 24px;
+	border-color: #FAC3D4;
+
+
+
+}
+
+
+
+
+
